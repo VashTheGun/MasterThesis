@@ -10,5 +10,5 @@ localizzazione del veicolo. Le tecniche presentate prevedono di fondere i risult
 Gli algoritmi sviluppati sono validati sperimentalmente sottoponendo il veicolo a traiettorie rettilinee, circolari e di lane change. Per concludere viene presentato il comportamento del veicolo durante una prova su un circuito ovale.
 
 ![Picture](https://raw.githubusercontent.com/jmolinaroli/MasterThesis/master/Models/SoftwareArch.png)
-![Picture] (https://github.com/jmolinaroli/MasterThesis/master/Models/strutturaerumby.png)
-![Picture] (https://github.com/jmolinaroli/MasterThesis/master/Models/connection.png)
+![Picture](https://raw.githubusercontent.com/jmolinaroli/MasterThesis/master/Models/strutturaerumby.png)
+![Picture](https://raw.githubusercontent.com/jmolinaroli/MasterThesis/master/Models/connection.png)
