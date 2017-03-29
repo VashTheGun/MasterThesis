@@ -9,6 +9,6 @@ I veicoli a guida autonoma si stanno affacciando sul mercato consumer, ma molti 
 localizzazione del veicolo. Le tecniche presentate prevedono di fondere i risultati forniti da un Global Positioning System Indoor (GPS Indoor), una Inertial Measurement Unit (IMU) e degli Odometry Sensors (Encoders) mediante un Filtro di Kalman Esteso (EKF).
 Gli algoritmi sviluppati sono validati sperimentalmente sottoponendo il veicolo a traiettorie rettilinee, circolari e di lane change. Per concludere viene presentato il comportamento del veicolo durante una prova su un circuito ovale.
 
-![ListForks] (https://raw.github.com/jmolinaroli/MasterThesis/blob/master/Models/SoftwareArch.png)
-![Picture] (https://github.com/jmolinaroli/MasterThesis/blob/master/Models/strutturaerumby.png)
-![Picture] (https://github.com/jmolinaroli/MasterThesis/blob/master/Models/connection.png)
+![ListForks] (https://raw.github.com/jmolinaroli/MasterThesis/master/Models/SoftwareArch.png)
+![Picture] (https://github.com/jmolinaroli/MasterThesis/master/Models/strutturaerumby.png)
+![Picture] (https://github.com/jmolinaroli/MasterThesis/master/Models/connection.png)
